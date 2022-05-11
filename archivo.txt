@@ -1,0 +1,2 @@
+Hola. Soy Renzo, he configurado la terminal de
+Git con Visual Studio Code... Seguire mejorando 
